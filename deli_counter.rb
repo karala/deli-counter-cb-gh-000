@@ -1,6 +1,6 @@
 # Write your code here.
 def line(people)
-  if people[] == null
+  if people[0] == null
     puts "The line is currently empty."
   end
 end
